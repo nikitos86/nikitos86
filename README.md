@@ -6,7 +6,7 @@
 
 ## Контакты
 
-[VK](https://vk.com/nkitazaitsev1986)
+[VK](https://vk.com/nikitazaitsev1986)
 
 [Telegram](https://t.me/Nikitazaitsev1986)
 
