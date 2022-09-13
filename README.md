@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello World!!!
 
-<!--
-**nikitos86/nikitos86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут __Никита Зайцев__я начинающий Фронтенд разработчик.
 
-Here are some ideas to get you started:
+Обучаюсь языкам __HTML__, __CSS__, __JavaScript__, работе с препроцессором__SASS__, сборщиком__Gulp__, а также многому другому из мира Веб-технологий.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+
+[VK](https://vk.com/nkitazaitsev1986)
+
+[Telegram](https://t.me/Nikitazaitsev1986)
+
+
+
