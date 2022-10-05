@@ -7,10 +7,10 @@
 
 ## Контакты
 
-<a href="https://vk.com/nikitazaitsev1986"><img src="https://img.shields.io/twitter/url?color=blue&logo=VK&stycil">
-<a 
+<a href="https://vk.com/nikitazaitsev1986"><img src="https://img.shields.io/twitter/url?label=VK&logo=vk&style=social&url=https%3A%2F%2Fvk.com">
+</a> 
 
-[Telegram](https://t.me/Nikitazaitsev1986)
+<a href ="https://t.me/Nikitazaitsev1986"><img src="https://img.shields.io/twitter/url?label=Telegram&logo=telegram&logoColor=green&style=social&url=https%3A%2F%2Ft.me"></a>
 
 
 
