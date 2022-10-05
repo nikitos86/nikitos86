@@ -7,7 +7,7 @@
 
 ## Контакты
 
-![][(https://img.shields.io/twitter/url?color=blue&logo=VK&style=social) (https://vk.com/nikitazaitsev1986)]
+<a href="https://vk.com/nikitazaitsev1986"><img src="https://img.shields.io/twitter/url?color=blue&logo=VK&style=social"></a> 
 
 [Telegram](https://t.me/Nikitazaitsev1986)
 
