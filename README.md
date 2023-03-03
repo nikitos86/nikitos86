@@ -13,12 +13,12 @@
 
 <h3>#Contacts</h3>
 
-<a href="nikitazaitsev1986@mail.ru" target="blank">[![mail.png](https://i.postimg.cc/4dTf5SWx/mail.png)](https://postimg.cc/ns0fV08y)</a>
+<a href="nikitazaitsev1986@mail.ru" target="blank"><img src="https://i.postimg.cc/QVLw3hT5/mail.png"/> </a>
 
-<a href="https://vk.com/nikitazaitsev1986" target="blank">[![vk.png](https://i.postimg.cc/Y9fpyzPf/vk.png)](https://postimg.cc/njrbXBpC)
+<a href="https://vk.com/nikitazaitsev1986" target="blank"><img src="https://i.postimg.cc/T2yPf0bY/vk.png"/>
 </a> 
 
-<a href ="https://t.me/Nikitazaitsev1986" target="blank">[![telegram.png](https://i.postimg.cc/5tz98Vqr/telegram.png)](https://postimg.cc/3yKHHzqj)</a>
+<a href ="https://t.me/Nikitazaitsev1986" target="blank"><img src="https://i.postimg.cc/GtTVVHHd/telegram.png"/> </a>
 
 
 
