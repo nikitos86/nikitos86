@@ -13,7 +13,7 @@
 
 <h3>#Contacts</h3>
 
-<a href="nikitazaitsev1986@mail.ru" target="blank"><img src="https://i.postimg.cc/QVLw3hT5/mail.png"/> </a>
+<a href="mailto:nikitazaitsev1986@mail.ru" target="blank"><img src="https://i.postimg.cc/QVLw3hT5/mail.png"/> </a>
 
 <a href="https://vk.com/nikitazaitsev1986" target="blank"><img src="https://i.postimg.cc/T2yPf0bY/vk.png"/>
 </a> 
